@@ -1,10 +1,12 @@
+>>>NOTE: More information about this project can be found in this pdf file: [CommFlix.pdf](Project%20CommFlix.pdf)
+
 # CommFlix: Community-Based Movie Streaming Site
 
 ## Project Owner
 - **Name:** [MD. Kamruzzaman]
 - **Email:** [tanvir3430@gmail.com]
 - **GitHub:** [KZTanvir]
-<br>NOTE: More information about this project can be found in this pdf file: [CommFlix.pdf](Project%20CommFlix.pdf)
+
 ## Table of Contents
 1. [Introduction](#introduction)
     1. [Objective](#objective)
