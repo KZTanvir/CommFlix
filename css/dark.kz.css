@@ -1,0 +1,120 @@
+body {
+    min-height: 100%;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #121212; /* Dark background */
+    color: #fff; /* Light text */
+}
+
+header {
+    background: #202020; /* Dark background */
+    color: #fff;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    transition: background 0.3s ease-in-out;
+}
+
+header a {
+    color: #fff;
+}
+
+header a:hover {
+    color: aqua;
+}
+
+header .menu a {
+    color: #fff;
+}
+
+header .menu a:hover {
+    color: #000;
+}
+
+header .search-bar input {
+    background: #333; /* Dark background */
+    color: #fff;
+}
+
+header .profile img {
+    border: 2px solid #333; /* Dark border */
+}
+
+header .site-info img {
+    margin-right: 10px;
+    border: 2px solid #333; /* Dark border */
+}
+
+nav {
+    background-color: #121212; /* Dark background */
+}
+
+nav .profile h4,
+nav .profile p,
+nav a {
+    color: #fff;
+}
+
+nav a:hover {
+    background-color: #000; /* Dark background */
+}
+
+section {
+    background: #121212; /* Dark background */
+    color: #fff;
+}
+
+.login-box {
+    background: #333; /* Dark background */
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+}
+
+.card {
+    background-color: #333; /* Dark background */
+    box-shadow: 0 2px 5px rgba(255, 255, 255, 0.1);
+}
+
+.table-container {
+    background: #333; /* Dark background */
+}
+
+th {
+    background-color: #F44336; /* Dark background */
+    color: #fff;
+}
+
+tr:nth-child(even) {
+    color: #666; /* Dark background */
+}
+
+tr:nth-child(odd) {
+    color: #555; /* Dark background */
+}
+
+.chatContainer div {
+    background: #333; /* Dark background */
+    color: #fff;
+}
+.comment-text {
+    color: black;
+}
+.developer-section {
+    border: 1px dashed #fff;
+}
+
+.movie {
+    background: #333; /* Dark background */
+    box-shadow: 0 2px 5px rgba(255, 255, 255, 0.1);
+}
+
+.movie p {
+    color: #fff;
+}
+
+.movie:hover {
+    transform: scale(1.1);
+}
+
+.panel-heading {
+    background: #00796B;
+    color: #fff;
+}
