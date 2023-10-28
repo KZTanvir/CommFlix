@@ -4,7 +4,7 @@
 - **Name:** [MD. Kamruzzaman]
 - **Email:** [tanvir3430@gmail.com]
 - **GitHub:** [KZTanvir]
-
+>NOTE: More information about this project can be found in this pdf file: [CommFlix.pdf](Project Commflix.pdf)
 ## Table of Contents
 1. [Introduction](#introduction)
     1. [Objective](#objective)
